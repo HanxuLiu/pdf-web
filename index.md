@@ -11,3 +11,6 @@
 ## 软著
 - [《申威LLDB调试器软件》](001.html)
 - [《申威Systemtap跟踪和探测工具软件》](001.html)
+
+## 报告
+- [boost攻关查错总结报告](./report/ali_boost_coredump.html)
